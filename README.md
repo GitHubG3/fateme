@@ -1,4 +1,4 @@
-# fateme
+# fateme rezaei
 پروژه بازی لاکپشت با زبان پایتون
 
 import turtle #کتابخانه لاکپشت
